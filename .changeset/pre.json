@@ -76,6 +76,7 @@
     "react-db-strip-dev-warnings",
     "react-db-unhashable-throws",
     "recover-interleaved-electric-source-commits",
+    "refresh-compatible-dependencies",
     "reject-negative-limits",
     "reserved-commit-defers-every-hydration",
     "resume-independent-subscription-demand",
